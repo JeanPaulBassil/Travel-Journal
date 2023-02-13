@@ -1,0 +1,14 @@
+.country {
+    width: 471px;
+    height: 168px;
+    margin: 30px;
+    display: flex;
+}
+
+.preview {
+    width: 125px;
+    height: 168px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-right: 20px;
+}

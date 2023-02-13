@@ -1,0 +1,17 @@
+.location-name {
+    margin-top: 0;
+    font-size: 25px;
+    color: #2B283A;
+    margin-bottom: 17px;
+}
+
+.duration {
+    margin: 0;
+    font-size: 10.5px;
+    color: #2B283A;
+}
+
+.description {
+    font-size: 10.5px;
+    color: #2B283A;
+}

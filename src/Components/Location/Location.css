@@ -1,0 +1,25 @@
+.path{
+    width: auto;
+    height: 9.55px;
+    margin-right: 4px;
+}
+
+.location {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    height: 15px;
+}
+
+.country-name {
+    letter-spacing: 2px;
+    font-size: 10.5px;   
+    margin-right: 10px;
+    color: #2B283A;
+    font-weight: 400;
+}
+
+.link {
+    color: #918E9B;
+    font-size: 10.5px;
+}
